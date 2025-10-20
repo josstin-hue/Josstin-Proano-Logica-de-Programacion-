@@ -30,6 +30,15 @@ Este repositorio contiene dos versiones del clásico **juego del ahorcado**, des
 
 ---
 
+👥 Datos del grupo
+
+Nombre del estudiante: JOSSTIN PROAÑO
+Asignatura: Lógica de Programación
+Institución: Universidad Internacional del Ecuador
+Docente: LILIAN MARLENE AMAN RAMOS
+
+---
+
 ## 🚀 Ejecución  
 
 1. Clona el repositorio:  
